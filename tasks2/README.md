@@ -1,0 +1,1 @@
+This is the second iteration of the command-line application (CLI) for managing tasks. It expands on the tasks1 prototype by implementing full CRUD (Create, Read, Update, Delete) functionality, allowing users to mark tasks as done and delete tasks by ID. All task data continues to be persisted in the local tasks.json file.
