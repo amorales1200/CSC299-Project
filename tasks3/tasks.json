@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "description": "Submit assignment",
+        "done": false
+    },
+    {
+        "id": 2,
+        "description": "Task to complete",
+        "done": true
+    },
+    {
+        "id": 3,
+        "description": "Final Check of the CLI",
+        "done": false
+    }
+]
