@@ -11,7 +11,6 @@ except Exception as e:
     print("Error: OpenAI client could not initialize.")
     print("Please ensure your OPENAI_API_KEY environment variable is set.")
     print(f"Details: {e}")
-    # Exit if the client can't be created
     sys.exit(1)
 
 TASK_DESCRIPTIONS = [
